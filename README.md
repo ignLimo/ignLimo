@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaxp&label=Profile%20views&color=0e75b6&style=flat" alt="vaxp" /> </p>
 
-- 🔭 I’m currently working on **Bridge Network** & <s>*MineRIP Network*</s>
+- 🔭 I’m currently working on **Bridge Network** & **MineRIP Network**
 
 - 👨‍💻 All of my projects are available at [GitHub.com/Vaxp](GitHub.com/Vaxp)
 
-- 📫 How to reach me **Cead#0001*
+- 📫 How to reach me **Cead#0001**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaxp&show_icons=true&locale=en&layout=compact" alt="vaxp" /></p>
 
