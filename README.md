@@ -11,6 +11,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaxp&show_icons=true&locale=en&layout=compact" alt="vaxp" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaxpr&show_icons=true&locale=en" alt="vaxp" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaxp&show_icons=true&locale=en" alt="vaxp" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaxp&" alt="vaxp" /></p>
