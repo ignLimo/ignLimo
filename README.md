@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaxp&label=Profile%20views&color=0e75b6&style=flat" alt="vaxp" /> </p>
 
-- 🔭 I’m currently working on **Bridge Network** & **MineRIP Network**
+- 🔭 I’m currently working on **Bridge Network**, **MineRIP Network** & **Wayback Network**
 
 - 👨‍💻 All of my projects are available at [GitHub.com/Vaxp](GitHub.com/Vaxp)
 
