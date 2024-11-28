@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaxp&label=Profile%20views&color=0e75b6&style=flat" alt="vaxp" /> </p>
 
-- 🔭 I’m currently working on **PotPvP Network** & **CheatBreaker**
+- 🔭 I’m currently working on **PotPvP** & **Solara**
+- Director at [Scala Studios](GitHub.com/ScalaGG)
 
 - 👨‍💻 All of my projects are available at [GitHub.com/Vaxp](GitHub.com/Vaxp)
 
